@@ -1,0 +1,6 @@
+#ignore 
+
+
+# dont put comment next to what u want to ignore all else it will not ignore it, just simple keep file name or type u want to ignore
+
+*.txt 
